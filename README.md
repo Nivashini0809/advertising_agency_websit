@@ -15,7 +15,8 @@
 
 **Technologies Used:**
 Frontend: HTML, CSS, JavaScript
+
 Backend: Catalyst Serverless
+
 Hosting:  Zoho Catalyst Serverless Platform
-Live Demo:
-🔗 Visit the Website
+
